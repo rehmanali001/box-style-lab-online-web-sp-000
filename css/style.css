@@ -64,3 +64,8 @@ h4 {
   width: 303%;
   box-sizing: border-box;
 }
+
+img {
+  border: 1px solid black;
+  box-sizing: border-box
+}
